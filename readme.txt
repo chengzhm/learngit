@@ -10,4 +10,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 this is a good time afternoon.
 this is a beautiful girl.
->>>>>>> Stashed changes
+this is a jz boy.
