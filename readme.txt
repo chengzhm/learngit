@@ -9,16 +9,5 @@ this is a good time afternoon.
 this is a beautiful girl.
 I AM Yangqian fans！！！
 
-<<<<<<< HEAD
-伏尔加绳子草
 
-点餐+++++++++++++++1
-
-
-mloowj
-
-
-mmidwkakwdk
-=======
-伏尔加绳子草
->>>>>>> parent of 84a8348... 111
+000000000000000000000000
